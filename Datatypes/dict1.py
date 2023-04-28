@@ -13,10 +13,3 @@ key:value for (key,value) in zip(name,profs)
 }
 print(f'New dictionary = {my_dictionary}.\n')
     
-# Modification of exixting library by concatenation
-heroes_dict = {
-     "Spider": "photographer", 
-     "Bat": "philanthropist", 
-     "Wonder Wo": "nurse"
- }
-
