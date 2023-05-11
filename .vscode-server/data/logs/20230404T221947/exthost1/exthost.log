@@ -1,0 +1,33 @@
+2023-04-04 22:19:53.223 [info] Extension host with pid 134 started
+2023-04-04 22:19:53.234 [error] Error: EEXIST: file already exists, open '/home/fnchocho/.vscode-server/data/User/workspaceStorage/d7d21ece585837e0b64bb7b81d81d5b2/vscode.lock'
+2023-04-04 22:19:53.257 [info] Lock '/home/fnchocho/.vscode-server/data/User/workspaceStorage/d7d21ece585837e0b64bb7b81d81d5b2/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-04-04 22:19:53.270 [info] Lock '/home/fnchocho/.vscode-server/data/User/workspaceStorage/d7d21ece585837e0b64bb7b81d81d5b2/vscode.lock': The pid 111 appears to be gone.
+2023-04-04 22:19:53.270 [info] Lock '/home/fnchocho/.vscode-server/data/User/workspaceStorage/d7d21ece585837e0b64bb7b81d81d5b2/vscode.lock': Deleting a stale lock.
+2023-04-04 22:19:53.329 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-04 22:19:53.332 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.isort
+2023-04-04 22:19:53.334 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-04-04 22:19:53.335 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-04 22:19:55.394 [info] Lock '/home/fnchocho/.vscode-server/data/User/workspaceStorage/d7d21ece585837e0b64bb7b81d81d5b2/vscode.lock': Lock acquired.
+2023-04-04 22:19:56.974 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-04-04 22:19:57.076 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-04 22:19:57.076 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-04 22:19:57.271 [error] Activating extension ms-python.python failed due to an error:
+2023-04-04 22:19:57.271 [error] TypeError: TelemetrySender.sendEventData must be a function
+	at Function.validateSender (/home/fnchocho/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/api/node/extensionHostProcess.js:92:38390)
+	at Object.createTelemetryLogger (/home/fnchocho/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/api/node/extensionHostProcess.js:117:31908)
+	at new t.BaseTelemetryReporter (/home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:1111846)
+	at new h (/home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:1116985)
+	at /home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:677577
+	at c (/home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:677653)
+	at /home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:157104
+	at y.activate (/home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:157197)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:3078901
+	at async e (/home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:3078515)
+	at async f.n (/home/fnchocho/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/api/node/extensionHostProcess.js:94:6818)
+	at async f.m (/home/fnchocho/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/api/node/extensionHostProcess.js:94:6781)
+	at async f.l (/home/fnchocho/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/api/node/extensionHostProcess.js:94:6238)
+2023-04-04 22:19:57.702 [info] Eager extensions activated
+2023-04-04 22:19:57.706 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-04 22:19:57.709 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-04 22:20:31.002 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

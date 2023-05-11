@@ -1,0 +1,65 @@
+2023-03-12 14:02:40.456 [info] Extension host agent started.
+2023-03-12 14:02:40.549 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fnchocho/.vscode-server/extensions
+2023-03-12 14:02:40.571 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fnchocho/.vscode-server/extensions
+2023-03-12 14:02:40.791 [info] [127.0.0.1][969d0ca4][ManagementConnection] New connection established.
+2023-03-12 14:02:41.640 [info] [127.0.0.1][df2e419d][ExtensionHostConnection] New connection established.
+2023-03-12 14:02:41.677 [info] [127.0.0.1][df2e419d][ExtensionHostConnection] <183> Launched Extension Host Process.
+2023-03-12 15:34:02.055 [info] [127.0.0.1][969d0ca4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-12 15:34:02.117 [info] [127.0.0.1][df2e419d][ExtensionHostConnection] <183> Extension Host Process exited with code: 0, signal: null.
+2023-03-12 15:34:04.077 [info] [127.0.0.1][c03ebdd3][ManagementConnection] New connection established.
+2023-03-12 15:34:06.153 [info] [127.0.0.1][c12ce82f][ExtensionHostConnection] New connection established.
+2023-03-12 15:34:06.220 [info] [127.0.0.1][c12ce82f][ExtensionHostConnection] <1084> Launched Extension Host Process.
+2023-03-12 15:35:28.655 [info] Getting Manifest... ms-python.python
+2023-03-12 15:35:28.860 [info] Installing extension: ms-python.python
+2023-03-12 15:35:29.658 [info] Getting Manifest... ms-toolsai.jupyter
+2023-03-12 15:35:30.089 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-03-12 15:35:30.371 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-03-12 15:35:30.494 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-03-12 15:35:30.614 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-03-12 15:35:30.742 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-12 15:35:30.871 [info] Getting Manifest... ms-python.isort
+2023-03-12 15:35:31.021 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2023-03-12 15:35:31.022 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-03-12 15:35:31.022 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-03-12 15:35:31.022 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-03-12 15:35:31.023 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-03-12 15:35:31.023 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-03-12 15:35:31.023 [info] Installing extension: ms-python.isort ms-python.python
+2023-03-12 15:35:31.723 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.3529a82f-2488-4996-b6b6-1743241c8f91: ms-toolsai.vscode-jupyter-cell-tags
+2023-03-12 15:35:31.729 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+2023-03-12 15:35:31.731 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-03-12 15:35:31.780 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.0075f091-9c8d-483e-b8ce-c1c992aaf7bc: ms-toolsai.vscode-jupyter-slideshow
+2023-03-12 15:35:31.784 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-03-12 15:35:31.786 [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+2023-03-12 15:35:31.928 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.2fadbf14-c509-44e0-afbe-6b0e594e30ff: ms-toolsai.jupyter-keymap
+2023-03-12 15:35:31.933 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-03-12 15:35:31.934 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2023-03-12 15:35:32.916 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.92156622-d5af-48e0-9e4a-1911aa09ab13: ms-toolsai.jupyter-renderers
+2023-03-12 15:35:32.930 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.14
+2023-03-12 15:35:32.933 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2023-03-12 15:35:37.493 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.6cf5d285-5406-487a-a352-d6409ccd1645: ms-toolsai.jupyter
+2023-03-12 15:35:37.528 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109
+2023-03-12 15:35:37.582 [info] Extracting completed. ms-toolsai.jupyter
+2023-03-12 15:35:43.483 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.f65c2d3f-0225-4a5f-9555-4d707066543a: ms-python.python
+2023-03-12 15:35:43.519 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-python.python-2022.20.2
+2023-03-12 15:35:43.531 [info] Extracting completed. ms-python.python
+2023-03-12 15:35:44.822 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.31c2c3e9-08c7-4e04-bad5-daddf13657a8: ms-python.isort
+2023-03-12 15:35:44.834 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-python.isort-2022.8.0
+2023-03-12 15:35:44.842 [info] Extracting completed. ms-python.isort
+2023-03-12 15:35:52.407 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.7344482e-1b83-4e6a-b26e-04bd5f469598: ms-python.vscode-pylance
+2023-03-12 15:35:52.431 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20
+2023-03-12 15:35:52.435 [info] Extracting completed. ms-python.vscode-pylance
+2023-03-12 15:35:52.447 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-03-12 15:35:52.448 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-03-12 15:35:52.448 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-03-12 15:35:52.448 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-03-12 15:35:52.448 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-03-12 15:35:52.448 [info] Extension installed successfully: ms-python.python
+2023-03-12 15:35:52.448 [info] Extension installed successfully: ms-python.isort
+2023-03-12 15:35:52.448 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-13 18:44:32.193 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-13 18:45:28.701 [info] [127.0.0.1][c03ebdd3][ManagementConnection] The client has reconnected.
+2023-03-13 18:45:28.868 [info] [127.0.0.1][c12ce82f][ExtensionHostConnection] The client has reconnected.
+2023-03-13 23:01:13.002 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-14 22:37:30.105 [info] [127.0.0.1][c03ebdd3][ManagementConnection] The client has reconnected.
+2023-03-14 22:37:30.682 [info] [127.0.0.1][c12ce82f][ExtensionHostConnection] The client has reconnected.

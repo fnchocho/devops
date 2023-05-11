@@ -1,0 +1,9 @@
+{
+    "aws.profile": "profile:vscode",
+    "workbench.startupEditor": "none",
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": 1
+}

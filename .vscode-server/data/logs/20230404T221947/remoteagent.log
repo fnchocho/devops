@@ -1,0 +1,47 @@
+2023-04-04 22:19:48.000 [info] 
+
+
+
+
+2023-04-04 22:19:48.055 [info] Extension host agent started.
+2023-04-04 22:19:48.181 [info] Migrating extensions from old default profile location file:///home/fnchocho/.vscode-server/data/User/extensions.json
+2023-04-04 22:19:48.274 [info] Migrated extensions from old default profile location to new location file:///home/fnchocho/.vscode-server/data/User/extensions.json file:///home/fnchocho/.vscode-server/extensions/extensions.json
+2023-04-04 22:19:48.359 [info] Deleted from disk ms-python.vscode-pylance /home/fnchocho/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20
+2023-04-04 22:19:48.691 [info] [127.0.0.1][73972868][ManagementConnection] New connection established.
+2023-04-04 22:19:51.881 [info] [127.0.0.1][a8253314][ExtensionHostConnection] New connection established.
+2023-04-04 22:19:51.909 [info] [127.0.0.1][a8253314][ExtensionHostConnection] <134> Launched Extension Host Process.
+2023-04-04 22:19:57.110 [info] Getting Manifest... ms-python.python
+2023-04-04 22:19:57.111 [info] Getting Manifest... ms-python.vscode-pylance
+2023-04-04 22:19:57.111 [info] Getting Manifest... ms-toolsai.jupyter
+2023-04-04 22:19:57.112 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-04-04 22:19:57.349 [info] Installing extension: ms-python.python
+2023-04-04 22:19:57.407 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-04-04 22:19:57.465 [info] Installing extension: ms-toolsai.jupyter
+2023-04-04 22:20:02.354 [info] Installing extension: ms-python.vscode-pylance
+2023-04-04 22:20:03.925 [info] Getting Manifest... ms-python.python
+2023-04-04 22:20:04.362 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-04-04 22:20:16.501 [info] Extension signature verification: ms-toolsai.jupyter. Verification status: Verified.
+2023-04-04 22:20:16.502 [info] Extension signature verification: ms-toolsai.jupyter-renderers. Verification status: Verified.
+2023-04-04 22:20:18.933 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-04-04 22:20:18.937 [info] Extension signature verification: ms-python.python. Verification status: Verified.
+2023-04-04 22:20:21.388 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.2a0c967d-f4f5-4a56-ac04-52b86c60d648: ms-toolsai.jupyter-renderers
+2023-04-04 22:20:22.939 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2023-04-04 22:20:22.954 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-04-04 22:20:24.509 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.0b16ad31-bf67-4738-8bcb-e3e2f592156d: ms-toolsai.jupyter
+2023-04-04 22:20:27.039 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-04-04 22:20:27.054 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.14
+2023-04-04 22:20:34.359 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.b669fc90-cf2f-4086-bba5-062763e6139d: ms-python.python
+2023-04-04 22:20:34.459 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-python.python-2023.4.1
+2023-04-04 22:20:34.473 [info] Extracting extension completed. ms-python.python
+2023-04-04 22:20:34.525 [info] Extension installed successfully: ms-python.python
+2023-04-04 22:20:34.534 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-04-04 22:20:34.553 [info] Marked extension as uninstalled ms-python.python-2022.20.2
+2023-04-04 22:20:40.874 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.f66aaa61-b945-43b5-803f-44c7bef97b3f: ms-python.vscode-pylance
+2023-04-04 22:20:41.647 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40
+2023-04-04 22:20:41.652 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-04-04 22:20:42.180 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-04-04 22:20:46.439 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-toolsai.jupyter-2023.2.1200692131
+2023-04-04 22:20:46.447 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.3.30
+2023-04-04 22:20:46.448 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-04-04 22:20:46.461 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-04-04 22:20:46.474 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.11.1003412109
