@@ -1,0 +1,26 @@
+2023-03-25 09:34:26.876 [info] Extension host agent started.
+2023-03-25 09:34:27.075 [info] [127.0.0.1][c7d7892a][ManagementConnection] New connection established.
+2023-03-25 09:34:27.662 [info] [127.0.0.1][cacc338d][ExtensionHostConnection] New connection established.
+2023-03-25 09:34:27.749 [info] [127.0.0.1][cacc338d][ExtensionHostConnection] <111> Launched Extension Host Process.
+2023-03-25 09:34:27.799 [info] Deleted from disk ms-toolsai.vscode-jupyter-cell-tags /home/fnchocho/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+2023-03-25 09:34:31.336 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-25 09:34:31.519 [info] Installing extension: ms-python.vscode-pylance
+2023-03-25 09:34:32.547 [info] Getting Manifest... ms-python.python
+2023-03-25 09:34:43.025 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.a3e0ffb6-9aa4-47a8-beb8-575cc0e887a6: ms-python.vscode-pylance
+2023-03-25 09:34:43.058 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.30
+2023-03-25 09:34:43.062 [info] Extracting completed. ms-python.vscode-pylance
+2023-03-25 09:34:43.075 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-25 09:34:43.131 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.3.20
+2023-03-26 12:41:20.459 [info] [127.0.0.1][c7d7892a][ManagementConnection] The client has reconnected.
+2023-03-26 12:41:21.442 [info] [127.0.0.1][cacc338d][ExtensionHostConnection] The client has reconnected.
+2023-03-28 18:45:44.583 [info] [127.0.0.1][cacc338d][ExtensionHostConnection] The client has reconnected.
+2023-03-28 18:45:45.153 [info] [127.0.0.1][c7d7892a][ManagementConnection] The client has reconnected.
+2023-03-28 23:21:36.319 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-31 19:08:27.568 [info] [127.0.0.1][c7d7892a][ManagementConnection] The client has reconnected.
+2023-03-31 19:08:28.180 [info] [127.0.0.1][cacc338d][ExtensionHostConnection] The client has reconnected.
+2023-04-01 08:32:21.173 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-02 10:14:58.823 [info] [127.0.0.1][cacc338d][ExtensionHostConnection] The client has reconnected.
+2023-04-02 10:15:00.786 [info] [127.0.0.1][c7d7892a][ManagementConnection] The client has reconnected.
+2023-04-02 20:09:01.323 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-03 22:57:17.682 [info] [127.0.0.1][c7d7892a][ManagementConnection] The client has reconnected.
+2023-04-03 22:57:21.025 [info] [127.0.0.1][cacc338d][ExtensionHostConnection] The client has reconnected.

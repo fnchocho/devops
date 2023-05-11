@@ -1,0 +1,17 @@
+2023-03-18 08:47:30.972 [info] Extension host agent started.
+2023-03-18 08:47:31.110 [info] [127.0.0.1][dc51408c][ManagementConnection] New connection established.
+2023-03-18 08:47:31.723 [info] [127.0.0.1][0dab6b33][ExtensionHostConnection] New connection established.
+2023-03-18 08:47:31.741 [info] [127.0.0.1][0dab6b33][ExtensionHostConnection] <107> Launched Extension Host Process.
+2023-03-18 08:47:38.813 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-03-18 08:47:38.955 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-03-18 08:47:39.548 [info] Extracted extension to /home/fnchocho/.vscode-server/extensions/.42a26fe8-f4df-4f05-a309-c077ead10707: ms-toolsai.vscode-jupyter-cell-tags
+2023-03-18 08:47:39.558 [info] Renamed to /home/fnchocho/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-03-18 08:47:39.560 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-03-18 08:47:39.567 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-03-18 08:47:39.591 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+2023-03-19 09:38:38.473 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-19 09:38:46.527 [info] [127.0.0.1][0dab6b33][ExtensionHostConnection] The client has reconnected.
+2023-03-19 09:38:46.731 [info] [127.0.0.1][dc51408c][ManagementConnection] The client has reconnected.
+2023-03-20 01:30:32.355 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-03-20 01:30:32.482 [info] [127.0.0.1][dc51408c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
